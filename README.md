@@ -12,3 +12,6 @@ https://qiita.com/colorrabbit/items/e608d5a159e628f297b0
 ```
 git clone git@github.com:ultralytics/yolov5.git
 ```
+
+# train.py時のエラー
+
