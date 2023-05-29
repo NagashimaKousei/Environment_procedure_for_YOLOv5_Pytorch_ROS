@@ -32,3 +32,8 @@ roslaunch yolov5_pytorch_ros detector.launch
 rviz
 ```
 起動後、AddのBytopicでcameraを指定する
+
+次に、カメラのノードを指定する
+```
+rosrun usb_cam usb_cam_node _video_device:=/dev/video0
+```
