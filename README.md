@@ -36,5 +36,5 @@ rosrun usb_cam usb_cam_node _video_device:=/dev/video0
 ```
 rviz
 ```
-起動後、AddのBytopicでcameraを指定する
+起動後、AddのBytopicでimage(camera)を指定する
 
