@@ -8,7 +8,7 @@ A repository representing the environment instructions for YOLOv5_Pytorch_ROS
 
 https://qiita.com/colorrabbit/items/e608d5a159e628f297b0
 
-注意点として、タグをしてしながらgit cloneしない
+注意点として、タグを指定しながらgit cloneしない
 ```
 git clone git@github.com:ultralytics/yolov5.git
 ```
