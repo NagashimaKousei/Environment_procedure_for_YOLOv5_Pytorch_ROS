@@ -19,3 +19,16 @@ https://discuss.roboflow.com/t/error-roboflow-custom-scaled-yolov4/1920/2
 
 主にloss.pyが原因
 
+# YOLOv5_Pytorch_ROSの実行手順
+ステップ１
+```
+roslaunch yolov5_pytorch_ros detector.launch
+```
+
+この際に、重みのパスをしっかり指定する
+
+ステップ２
+```
+rviz
+```
+起動後、AddのBytopicでcameraを指定する
