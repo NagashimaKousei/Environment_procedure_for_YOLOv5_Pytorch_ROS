@@ -1,0 +1,2 @@
+# Environment_procedure_for_YOLOv5_Pytorch_ROS
+A repository representing the environment instructions for YOLOv5_Pytorch_ROS
