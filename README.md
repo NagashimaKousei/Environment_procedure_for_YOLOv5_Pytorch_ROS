@@ -3,6 +3,7 @@ A repository representing the environment instructions for YOLOv5_Pytorch_ROS
 # YOLOv5v4.0を構築する際につまずいたこと
 - tagの指定方法
 - train.py時のエラー
+- Upsample' object has no attribute 'recompute_scale_factor
 # tagの指定方法
 以下を参考にtagの指定を行った
 
@@ -18,6 +19,11 @@ git clone git@github.com:ultralytics/yolov5.git
 https://discuss.roboflow.com/t/error-roboflow-custom-scaled-yolov4/1920/2
 
 主にloss.pyが原因
+
+# Upsample' object has no attribute 'recompute_scale_factor
+upsampling.pyの155行目からを変更を行う必要がある
+
+
 
 # YOLOv5_Pytorch_ROSの実行手順
 ステップ１
