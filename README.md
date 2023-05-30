@@ -16,6 +16,7 @@ git clone git@github.com:ultralytics/yolov5.git
 
 # train.py時のエラー
 以下のサイトの手順に従う
+
 https://discuss.roboflow.com/t/error-roboflow-custom-scaled-yolov4/1920/2
 
 主にloss.pyが原因
@@ -24,6 +25,7 @@ https://discuss.roboflow.com/t/error-roboflow-custom-scaled-yolov4/1920/2
 upsampling.pyの155行目からを変更を行う必要がある
 
 以下のリンクを参考にプログラムの変更を行った
+
 https://miyashinblog.com/yolov5/
 
 
