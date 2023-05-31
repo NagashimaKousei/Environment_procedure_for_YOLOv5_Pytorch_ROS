@@ -51,7 +51,7 @@ roslaunch yolov5_pytorch_ros detector.launch
 
 この際に、detector.launchの重みのパスを指定する
 
-ステップ3 カメラのノードを指定する
+ステップ3 カメラのノードを指定する(カメラによって番号が違う)
 ```
 rosrun usb_cam usb_cam_node _video_device:=/dev/video0
 ```
