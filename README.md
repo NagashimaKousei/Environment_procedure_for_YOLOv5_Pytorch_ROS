@@ -38,7 +38,9 @@ https://miyashinblog.com/yolov5/
 ステップ1
 
 以下のリポジトリからgit cloneする
+
 https://github.com/open-rdc/yolov5_pytorch_ros/tree/detect_landmark
+
 ステップ2
 ```
 roslaunch yolov5_pytorch_ros detector.launch
