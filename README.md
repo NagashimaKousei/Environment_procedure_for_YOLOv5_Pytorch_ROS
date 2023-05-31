@@ -1,4 +1,4 @@
-# Environment_procedure_for_YOLOv5_Pytorch_ROS
+# A repository to prepare for launching YOLOv5_Pytorch_ROS
 A repository representing the environment instructions for YOLOv5_Pytorch_ROS
 # YOLOv5v4.0の環境
 https://github.com/ultralytics/yolov5/tree/v4.0
