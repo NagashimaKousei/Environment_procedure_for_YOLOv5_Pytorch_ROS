@@ -35,19 +35,21 @@ https://miyashinblog.com/yolov5/
 
 
 # YOLOv5_Pytorch_ROSの実行手順
-ステップ１
+ステップ1
+
+ステップ2
 ```
 roslaunch yolov5_pytorch_ros detector.launch
 ```
 
 この際に、重みのパスを指定する
 
-ステップ2 カメラのノードを指定する
+ステップ3 カメラのノードを指定する
 ```
 rosrun usb_cam usb_cam_node _video_device:=/dev/video0
 ```
 
-ステップ3
+ステップ4
 ```
 rviz
 ```
