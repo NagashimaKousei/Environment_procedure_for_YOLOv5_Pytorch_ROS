@@ -37,7 +37,7 @@ https://miyashinblog.com/yolov5/
 # YOLOv5_Pytorch_ROSの実行手順
 ステップ1
 
-以下のリポジトリからgit cloneする
+以下のリポジトリからyolov5_pytorch_rosの環境構築を行う
 
 https://github.com/open-rdc/yolov5_pytorch_ros/tree/detect_landmark
 
