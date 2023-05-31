@@ -1,5 +1,8 @@
 # A repository to prepare for launching YOLOv5_Pytorch_ROS
 A repository representing the environment instructions for YOLOv5_Pytorch_ROS
+# 開発環境
+ubuntu 20.04
+ROS Noetic
 # YOLOv5v4.0の環境
 https://github.com/ultralytics/yolov5/tree/v4.0
 # YOLOv5v4.0を構築する際につまずいたこと
