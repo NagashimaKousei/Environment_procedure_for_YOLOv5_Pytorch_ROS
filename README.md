@@ -38,7 +38,7 @@ https://miyashinblog.com/yolov5/
 roslaunch yolov5_pytorch_ros detector.launch
 ```
 
-この際に、重みのパスをしっかり指定する
+この際に、重みのパスを指定する
 
 ステップ2 カメラのノードを指定する
 ```
