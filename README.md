@@ -46,7 +46,7 @@ https://github.com/open-rdc/yolov5_pytorch_ros/tree/detect_landmark
 roslaunch yolov5_pytorch_ros detector.launch
 ```
 
-この際に、重みのパスを指定する
+この際に、detector.launchの重みのパスを指定する
 
 ステップ3 カメラのノードを指定する
 ```
