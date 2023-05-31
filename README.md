@@ -15,6 +15,8 @@ https://github.com/ultralytics/yolov5/tree/v4.0
 
 https://qiita.com/colorrabbit/items/e608d5a159e628f297b0
 
+git checkoutを使って行う
+
 注意点として、タグを指定しながらgit cloneしない
 
 ```
